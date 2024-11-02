@@ -10,13 +10,13 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 
 ## 🎥 Capturas de Tela
 
-### Projeto em Execução
+### - Projeto em Execução
 ![Execução](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/execu%C3%A7%C3%A3o.png.png)
 
-### Apresentação do projeto em animação
+### Apresentação do Projeto em Animação
 ![Apresentação](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/apresenta%C3%A7%C3%A3o.png.jpg)
 
-## Teste o Projeto
+## - Teste o Projeto
 - Abra o arquivo "index.html" no navegador. (abra pela extensão live server)
 - Insira o nome do herói e o valor de XP e clique em "Classificar".
 - Verifique qual classificação aparece  na página. 
