@@ -8,33 +8,8 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 - **VS Code**: como editor de código
 - **Git e GitHub**: para versionamento e armazenamento do projeto
 
-## Passo a Passo para Implementação
+## 🔗 Links Úteis
 
-### 1. Estrutura do Projeto
-- Crie um arquivo `index.html` para a interface.
-- Crie um arquivo `script.js` para a lógica em JavaScript.
+- [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-### 2. Código HTML (index.html)
-```html
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classificador de Nível de Herói</title>
-</head>
-<body>
-    <h1>Classifique seu Herói</h1>
-    <label for="nome">Nome do Herói:</label>
-    <input type="text" id="nome">
-    
-    <label for="xp">Experiência (XP):</label>
-    <input type="number" id="xp">
-    
-    <button onclick="classificarHeroi()">Classificar</button>
-    
-    <p id="resultado"></p>
-    
-    <script src="script.js"></script>
-</body>
-</html>
