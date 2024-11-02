@@ -11,10 +11,11 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 ## 🎥 Capturas de Tela
 
 ### Projeto em Execução
-![Execução](execucao.png)
+![Execução](-)
 
 ### Apresentação do Projeto
-![Apresentação](apresentacao.png)
+![Apresentação](-)
+
 
 
 ## 🔗 Links Úteis
