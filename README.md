@@ -8,6 +8,15 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 - **VS Code**: como editor de código
 - **Git e GitHub**: para versionamento e armazenamento do projeto
 
+## 🎥 Capturas de Tela
+
+### Projeto em Execução
+![Execução](execucao.png)
+
+### Apresentação do Projeto
+![Apresentação](apresentacao.png)
+
+
 ## 🔗 Links Úteis
 
 - [Documentação do JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
