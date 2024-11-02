@@ -10,11 +10,14 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 
 ## 🎥 Capturas de Tela
 
+## 🎥 Capturas de Tela
+
 ### Projeto em Execução
-![Execução](execucao.png)
+![Execução](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/execucao.png)
 
 ### Apresentação do Projeto
-![Apresentação]([apresentacao.png](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/apresentacao.png))
+![Apresentação](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/apresentacao.png)
+
 
 
 ## 🔗 Links Úteis
