@@ -2,7 +2,7 @@
 
 Projeto de classificação de heróis baseado em experiência (XP) usando JavaScript. Este projeto faz parte de uma atividade da DIO e demonstra conceitos básicos de variáveis, operadores, laços de repetição e estruturas de decisão.
 
-## linguagens
+## Tecnologias 
 - **JavaScript**
 - **HTML**
 
