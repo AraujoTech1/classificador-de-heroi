@@ -6,7 +6,7 @@ Projeto de classificação de heróis baseado em experiência (XP) usando JavaSc
 - **JavaScript**
 - **HTML**
 
-## 🎥 Capturas de Tela
+## Capturas de Tela
 
 Projeto em Execução
 ![Execução](https://github.com/AraujoTech1/classificador-de-heroi/blob/main/Projeto-Heroi/execu%C3%A7%C3%A3o.png.png)
